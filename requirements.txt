@@ -1,0 +1,4 @@
+kiteconnect
+gspread
+oauth2client
+colorama
